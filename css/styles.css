@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+
+body {
+  font-family: "Roboto Slab", serif;
+}
+
+.mi-nav {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #3f3f3f;
+}
+
+
+img{
+    height: 500px !important;
+}
+
+.bg1{
+    background-image: url(../assets/bg1.jpg);
+    background-attachment: fixed;
+}
+
+textarea{
+    resize: none;
+}
+
+.bg2{
+    background: linear-gradient(to right, rgba(25,22,84,1) 0%, rgba(67,198,172,1) 100%)
+
+}
+.bg-3{
+    height: 80vh;
+}
